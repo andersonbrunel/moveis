@@ -1,4 +1,4 @@
-varbanners 	   = ["Os melhores do Brasil!","Qualidade e preço baixo!"];
+varbanners 	   = ["Do lixo ao luxo!","Reaproveitar é aproveitar!"];
 varbannerAtual = 0;
 
 functiontrocaBanner() {
